@@ -1,8 +1,8 @@
-# [ICO-Check](https://icocheck.io/)
+# [Turing Capital](http://www.turing.capital/)
 
-[ICO-Check](https://icocheck.io/) is a community-driven website that lists the latest ICOs and conducts due diligence on each one of them.            
+[Turing Capital](http://www.turing.capital/) is the crypto "paypal mafia". We are structured as a DAO and a collective of founders, ethereum core developers, engineers, inventors, and investors. We partner and support projects at all stages from pre-whitepaper to public ICOs.            
              
-With the large number of ICOs currently around, ICO-Check is an important tool that allows more transparency in the field, giving investors the confidence they need before deciding which tokens to buy.
+With the large number of ICOs currently around, Turing operates as an investing syndicate that shares the burden of bringing transparency in the field. We plan to use GitHub to organize our due diligence efforts to help our members gain the confidence they need before deciding which tokens to buy.
 
 ## Requesting a new ICO background check
 Create a new issue with title _company-name background check_. In the issue details provide url to the ICO website.
