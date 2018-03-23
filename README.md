@@ -7,8 +7,8 @@ With the large number of ICOs currently around, Turing operates as an investing 
 ## Instructions for uploading your data 
 1. Create a new issue with title _company-name background check_. In the issue details provide url to the ICO website.
 2. Check if there exists issue to request background check for the ICO. If not, create a new one.
-3. Fill the information from the [issue template](https://github.com/turingcapital/diligence/edit/master/issue_template.md). 
-4. Please consider using our sample questions we have in the main directory under [sample questions](https://github.com/turingcapital/diligence/master/pull_request_template.md).
+3. Fill the information from the [issue template](https://github.com/turingcapital/diligence/blob/master/ISSUE_TEMPLATE.md). 
+4. Please consider using our sample questions we have in the main directory under [sample questions](https://github.com/turingcapital/diligence/blob/master/sample_questions.md).
 
 ## Changing data in a checked ICO
 1. Find an issue where ICO was originally added
