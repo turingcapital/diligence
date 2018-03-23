@@ -2,7 +2,7 @@
 
 [Turing Capital](http://www.turing.capital/) is the crypto "paypal mafia". We are structured as a DAO and a collective of founders, ethereum core developers, engineers, inventors, and investors. We partner and support projects at all stages from pre-whitepaper to public ICOs.            
              
-With the large number of ICOs currently around, Turing operates as an investing syndicate that shares the burden of bringing transparency in the field. We plan to use GitHub to organize our due diligence efforts to help our members gain the confidence they need before deciding which tokens to buy.
+With the large number of ICOs currently around, Turing hopes to shares the burden of research amongst members of the syndicate. We plan to use GitHub to organize our due diligence efforts to help our members gain the confidence they need before deciding which tokens to buy.
 
 ## Instructions for uploading your data 
 1. Create a new issue with title _company-name background check_. In the issue details provide url to the ICO website.
